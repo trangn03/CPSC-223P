@@ -1,2 +1,3 @@
 # CPSC-223P
-File to study for CPSC 223P 
+Year: 2022 - 2023
+File to study for Python
