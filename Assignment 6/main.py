@@ -60,6 +60,7 @@ while True:
         print("====================  =========  =========================  =========================")
         for i,x in enumerate(s):
             print(f'{x.firstname + " "+ x.lastname:22}{x.classyear:33}{x.major:60}{x.firstname+ " "+ x.lastname:87}')
+            # print(f'{x.firstname + " "+ x.lastname:22}{x.classyear:11}{x.major:27}{x.advisor}')
         print()
     
     # exit the program
