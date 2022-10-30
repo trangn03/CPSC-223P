@@ -58,16 +58,16 @@
         ```
 3. Math module: required mathematical functions
     - Pi
-    ```js
-    >>> import math
-    >>> math.pi
-    3.141592653589793
-    ```
+        ```js
+        >>> import math
+        >>> math.pi
+        3.141592653589793
+        ```
     - e
-    ```js
-    >>> math.e
-    2.718281828459045
-    ```
+        ```js
+        >>> math.e
+        2.718281828459045
+        ```
     - Trigonometric functions:
         - radians(): converts angle in degrees to radians.
             ```js
