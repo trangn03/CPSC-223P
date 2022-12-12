@@ -190,14 +190,3 @@ main.py
 flights.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|15|main.py file submitted contains the main driver program and meets the program requirements|
-|15|flights.py file submitted contains the flights module and meets the program requirements|
-|10|unit testing test.txt file results submitted|
-|10|unit testing passes each test|

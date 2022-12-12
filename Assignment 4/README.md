@@ -7,9 +7,6 @@
      1. errors and exceptions
 1. Run and test a Python program.
 
-
-
-     
 ## Program Instructions
 1. All the functions should accept the weather dictionary data structure as follows:
      ```
@@ -182,21 +179,3 @@ main.py
 weather.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|10|main.py file submitted and meets the program requirements |
-|10|weather.py file submitted and meets the program requirements |
-|3|unit test passes Test01_weather_read_data_errorhandle|
-|2|unit test passes Test02_weather_write_data|
-|3|unit test passes Test03_max_temperature|
-|3|unit test passes Test04_min_temperature|
-|3|unit test passes Test05_max_humidity|
-|3|unit test passes Test06_min_humidity|
-|3|unit test passes Test07_tot_rain|
-|5|unit test passes Test08_report_daily|
-|5|unit test passes Test09_report_historical|

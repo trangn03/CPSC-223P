@@ -1,16 +1,3 @@
-# Exam 3
-
-## Rules of Behavior
-1. Do not communicate with anyone during the exam (no email, no social media, no Discord, no texting, no phones, no talking, no passing notes, no internet communicating).  If there is any evidence of communicating with anyone during the exam you will receive a zero.
-1. You **must** turn off your cell phone and store it away.
-1. Your submission **must** be solely you own work without the assistance of anyone by any means.
-1. All programming code **must** be written in Python.
-1. You **must** use Tuffix to unit test your program.
-1. All your code **must** be pushed to Github by the scheduled end of class today.  Any submissions after that time will not be considered.
-1. You may use your book.
-1. You may use the Internet as a **reference only**.
-1. If you have questions, approach the instructor desk.
-     
 ## Program Instructions
 1. Write several Python classes that perform as a Tuffy Titan Vehicle management module.  You are provided a very simple main.py file that you may use as you are developing your class hierarchies.
 1. The class hierarchies should use the following structure:
@@ -96,22 +83,3 @@ When you completed the final Github push, go back into github.com through the br
 vehicle.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|45|initial git clone of this repository to your Tuffix machine|
-|5|vehicle.py file submitted and meets the program requirements |
-|5|unit test passes Test01_vehicle_instance_object|
-|5|unit test passes Test02_vehicle_class_variable|
-|5|unit test passes Test03_car_instance_object|
-|5|unit test passes Test04_car_class_variable|
-|5|unit test passes Test05_truck_instance_object|
-|5|unit test passes Test06_truck_class_variable|
-|5|unit test passes Test07_sedan|
-|5|unit test passes Test08_coupe|
-|5|unit test passes Test09_pickup|
-|5|unit test passes Test10_suv|
-

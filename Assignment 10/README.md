@@ -5,25 +5,7 @@
 1. Write a Python program using:
      1. sqlite3
 1. Run and test a Python program.
-
-## Getting Started
-1. Open the Terminal program in Tuffix.
-1. Change the present working directory to the `Documents` directory by typing the following command at the command prompt:
-
-    ```
-    cd Documents
-    ```
-
-1. Make a copy of this Github repository on your computer using the `git` and `clone` commands that you will input to the terminal. The commands take a URL as a parameter to specify where it can get a copy of the repository. You can find the URL by clicking on the green *Clone or download* button at the top right part of this page. Copy the URL and replace the example text shown below. Note that `username` should be replaced with your own Github username. When you hit <kbd>Enter</kbd> it will ask you to provide your Github username and token. Once done, you will have a copy of the repository on your computer.
-    ```
-    git clone https://github.com/CSUF-CPSC223P-STMAY-2021F/lab11-username.git
-    ```
-1. Navigate into the new directory using the command line. Note that `username` should be replaced with your own Github username.  As a shortcut, you can type the first few letters of the folder name and press <kbd>Tab</kbd> so that it auto completes the folder name for you.
-
-     ```
-     cd lab11-username
-     ```
-     
+ 
 ## Program Instructions
 1. Write a Python program that performs as a Tuffy Titan Contacts phone list.  You are given the main.py file and are required to create the Contacts class.
 1. The following is the Entity-Relationship Diagram for the data structure:
@@ -82,16 +64,3 @@ When you completed the final Github push, go back into github.com through the br
 contacts.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|5|contacts.py file submitted contains the Contacts class and meets the program requirements|
-|10|unit test passes Test01_ADD_CONTACT|
-|10|unit test passes Test02_MODIFY_CONTACT|
-|10|unit test passes Test03_ADD_PHONE|
-|10|unit test passes Test04_MODIFY_PHONE|
-|5|unit test passes Test05_GET_CONTACT_PHONE_LIST|

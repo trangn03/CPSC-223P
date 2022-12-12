@@ -87,37 +87,3 @@ In case it asks you  to configure global variables for an email and name, just c
    <pre>git config --global user.email "<i>tuffy@csu.fullerton.edu</i>"<br>git config --global user.name "<i>Tuffy Titan</i>"<br>git commit -m "<i>your comment</i>"<br>git push</pre>
 
 When you completed the final Github push, go back into github.com through the browser interface and ensure all your files have been correctly updated.  Your files should be exactly as outlined using the directory structure in step 1.
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|1|mathematics/__init__.py file submitted and meets the program requirements |
-|1|mathematics/whoami.py file submitted and meets the program requirements |
-|1|mathematics/numbers/__init__.py file submitted and meets the program requirements |
-|2|mathematics/numbers/whoami.py file submitted and meets the program requirements |
-|2|mathematics/numbers/series.py file submitted and meets the program requirements |
-|2|mathematics/numbers/simple.py file submitted and meets the program requirements |
-|1|mathematics/geometry/__init__.py file submitted and meets the program requirements |
-|2|mathematics/geometry/whoami.py file submitted and meets the program requirements |
-|2|mathematics/geometry/rectangle.py file submitted and meets the program requirements |
-|2|mathematics/geometry/circle.py file submitted and meets the program requirements |
-|2|mathematics/geometry/cube.py file submitted and meets the program requirements |
-|2|unit test passes Test01_mathematics_whoami_getname|
-|2|unit test passes Test02_mathematics_numbers_whoami_getname|
-|2|unit test passes Test03_mathematics_numbers_series_sum|
-|2|unit test passes Test04_mathematics_numbers_series_average|
-|2|unit test passes Test05_mathematics_numbers_simple_addition|
-|2|unit test passes Test06_mathematics_numbers_simple_subtraction|
-|2|unit test passes Test07_mathematics_numbers_simple_multiplication|
-|2|unit test passes Test08_mathematics_numbers_simple_division|
-|2|unit test passes Test09_mathematics_geometry_whoami_getname|
-|2|unit test passes Test10_mathematics_geometry_rectangle_perimeter|
-|2|unit test passes Test11_mathematics_geometry_rectangle_area|
-|2|unit test passes Test12_mathematics_geometry_cube_surfacearea|
-|2|unit test passes Test13_mathematics_geometry_cube_volume|
-|2|unit test passes Test14_mathematics_init|
-|2|unit test passes Test15_mathematics_numbers_init|
-|2|unit test passes Test16_mathematics_geometry_init|

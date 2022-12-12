@@ -208,19 +208,3 @@ main.py
 people.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|5|main.py file submitted and meets the program requirements |
-|10|people.py file submitted and meets the program requirements |
-|5|unit test passes Test01_Person|
-|5|unit test passes Test02_Faculty|
-|5|unit test passes Test03_FacultyInheritsPerson|
-|5|unit test passes Test04_FacultyInheritsStudent|
-|5|unit test passes Test05_Student|
-|5|unit test passes Test06_StudentInheritsPerson|
-|5|unit test passes Test07_StudentInheritsFaculty|

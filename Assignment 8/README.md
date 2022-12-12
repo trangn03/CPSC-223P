@@ -85,33 +85,3 @@ When you completed the final Github push, go back into github.com through the br
 inventory.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|6|inventory.py file submitted and meets the program requirements |
-|2|unit test passes Test01_CreatObjectNoFile|
-|2|unit test passes Test02_CreatObjectWithFile|
-|2|unit test passes Test03_AddItemBarcodeNotString|
-|2|unit test passes Test04_AddItemBarcodeTooLong|
-|2|unit test passes Test05_AddItemBarcodeDoesNotContainBC|
-|2|unit test passes Test06_AddItemBarcodeEndsWithChar|
-|2|unit test passes Test07_AddItemBarcodeValid|
-|2|unit test passes Test08_AddItemBarcodeDuplicate|
-|2|unit test passes Test09_AddItemBarcodeValidDataWrite|
-|2|unit test passes Test10_ModifyDescriptionBarcodeNotFound|
-|2|unit test passes Test11_ModifyDescriptionBarcodeValid|
-|2|unit test passes Test12_ModifyDescriptionBarcodeValidDataWrite|
-|2|unit test passes Test13_AddQtyBarcodeNotFound|
-|2|unit test passes Test14_AddQtyNotInt|
-|2|unit test passes Test15_AddQtyValid|
-|2|unit test passes Test16_AddQtyValidDataWrite|
-|2|unit test passes Test17_RemoveQtyBarcodeNotFound|
-|2|unit test passes Test18_RemoveQtyNotInt|
-|2|unit test passes Test19_RemoveQtyNotEnoughSupply|
-|2|unit test passes Test20_RemoveQtyValid|
-|2|unit test passes Test21_RemoveQtyValidDataWrite|
-|2|unit test passes Test22_GetInventory|

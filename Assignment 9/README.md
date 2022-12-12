@@ -82,16 +82,3 @@ When you completed the final Github push, go back into github.com through the br
 bots.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|5|bots.py file submitted contains the bots module and meets the program requirements|
-|5|unit test passes Test01_EMPTY_ITEM|
-|10|unit test passes Test02_ONE_ITEM|
-|10|unit test passes Test03_THREE_ITEMS|
-|10|unit test passes Test04_FIVE_ITEMS|
-|10|unit test passes Test05_TEN_ITEMS|

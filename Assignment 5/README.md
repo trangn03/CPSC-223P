@@ -299,18 +299,3 @@ main.py
 contacts.py
 test.txt
 ```
-    
-## Grading
-1. All points add up to a total of 100 points possible as detailed below.  Partial credit will be given where applicable.
-
-| Points | Description |
-| --- | --- |
-|50|initial git clone of this repository to your Tuffix machine|
-|10|main.py file submitted and meets the program requirements |
-|10|contacts.py file submitted and meets the program requirements |
-|5|unit test passes Test01_AddContact|
-|5|unit test passes Test02_AddContact|
-|5|unit test passes Test03_ModifyContact|
-|5|unit test passes Test04_ModifyContact|
-|5|unit test passes Test05_DeleteContact|
-|5|unit test passes Test06_DeleteContact|
